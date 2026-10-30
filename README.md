@@ -1,10 +1,10 @@
 # Julián Zabala
 
-**Backend Engineer** · Sistemas distribuidos, integraciones empresariales y consistencia de datos.
+**Backend Engineer** · REST APIs, integraciones empresariales y consistencia de datos.
 
 Licenciado en Sistemas (UNNOBA) · Junín, Buenos Aires · Remoto UTC-3
 
-6 años en software (2020–hoy), 4+ en desarrollo web con Node.js, Angular y React.
+6 años en software (2020–hoy), 4+ en desarrollo web con Node.js, Angular y SQL Server / PostgreSQL.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-licenciadojulianzabala.com.ar-D9A441?style=flat-square&logoColor=white)](https://www.licenciadojulianzabala.com.ar/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-julian--zabala-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-zabala-0a000b1b3/)
@@ -15,9 +15,9 @@ Licenciado en Sistemas (UNNOBA) · Junín, Buenos Aires · Remoto UTC-3
 ### En qué trabajo
 
 Diseño backends que tienen que seguir siendo correctos cuando el sistema del otro lado deja de
-responder. En **KipBip** (logística) mantengo dos productos en producción: el core de ruteo y
+responder. En la empresa **KipBip** (https://kipbip.com/) mantengo 3 productos en producción: el core sistema con su mismo nombre 'KipBip',
 `pk-connector`, la plataforma de integración on-premise con SAP S/4HANA, Solera RNA y
-Descartes Roadnet.
+Descartes Roadnet y 'pk-metricas' sistema interno que recopila información para la toma de decisiones.
 
 Mi día a día es mensajería asíncrona, garantías de entrega y transaccionalidad:
 RabbitMQ con Dead Letter Queues, Transactional Outbox, CQRS-lite, cache-aside en Redis
@@ -64,7 +64,7 @@ ERPs on-premise → Strategy + Factory → RabbitMQ → Workers → SSE (telemet
 
 ### Stack
 
-**Core** · TypeScript · Node.js · Express · Zod · tsyringe (IoC)
+**Core** · TypeScript · Node.js · Express · class-validator · tsyringe (IoC)
 
 **Datos** · SQL Server · PostgreSQL · Redis · Sequelize · Prisma
 
@@ -78,6 +78,7 @@ ERPs on-premise → Strategy + Factory → RabbitMQ → Workers → SSE (telemet
 
 **Arquitectura** · SOLID · Clean / Layered · DDD-lite · CQRS-lite · Unit of Work · RBAC
 
+**Monitorización y Observabilidad (incorporando en proyecto nuevo)** · Prometheus · Grafana.
 ---
 
 ### Proyectos propios
@@ -92,8 +93,12 @@ ERPs on-premise → Strategy + Factory → RabbitMQ → Workers → SSE (telemet
 
 ### Disponibilidad
 
-Abierto a posiciones **Backend / Full Stack** en remoto (UTC-3, solape con LATAM, US y Europa).
-Me interesan equipos con problemas de consistencia, integración o escala — y gente de la que
-aprender.
+**Software Engineer | Backend / Full Stack Developer**
+
+Más de 6 años de experiencia en desarrollo de software. Interesado en nuevos desafíos profesionales, preferentemente en modalidad remota (UTC-3), dentro de equipos de ingeniería que valoren la colaboración, las buenas prácticas y la calidad del software.
+
+Me interesa formar parte de equipos de ingeniería de software, participar en la construcción de soluciones desde el análisis de requerimientos hasta su puesta en producción y trabajar en entornos colaborativos, con buenas prácticas, responsabilidades definidas y foco en la calidad del software.
+
+Busco seguir creciendo profesionalmente, aportar mi experiencia y aprender de otros perfiles técnicos.
 
 📬 **[zabalajulian98@gmail.com](mailto:zabalajulian98@gmail.com)**
